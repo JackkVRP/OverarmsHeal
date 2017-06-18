@@ -1,0 +1,13 @@
+ name: Overarms
+ version: 1.0
+ description: Overarms Healing Command
+ author: JackkOLantern 
+ 
+ main: me.jackk.main.Main
+ 
+ commands:
+   heal2:
+     description: Heal's player.
+     permission: overarms.heal
+     usage: /heal2 [Player]
+ 
